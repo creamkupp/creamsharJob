@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115365695153",
+    "project_id": "creamsharejob",
+    "storage_bucket": "creamsharejob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115365695153:android:162c94ea2a97f188069c90",
+        "android_client_info": {
+          "package_name": "com.creamkub.creamsharjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115365695153-hvl39ia8ijbkuikeor9n8ihcrnn6muuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creamkub.creamsharjob",
+            "certificate_hash": "b67ada191307082c39f9ab166378824ba0b7bddc"
+          }
+        },
+        {
+          "client_id": "115365695153-h53o8ndfpnvetaobstsfhbc038ebklrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegJqNGSt4md0NTIhpnXpjyC1azxdU8ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115365695153-h53o8ndfpnvetaobstsfhbc038ebklrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
